@@ -1,3 +1,5 @@
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/Soliton-Analytics-Team/Capitalize/blob/master/Capitalize.ipynb)
+
 # 英文をちゃんとキャピタライズしたい
 
 ある英語のチャットボットを試した時、以下のように出力してくるものがありました。<br>
